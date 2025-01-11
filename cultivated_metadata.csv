@@ -1,0 +1,320 @@
+﻿file,variety,full_name,type,plant,leaf,px_cm,base_x,base_y,tip_x,tip_y
+AMA1_d.tif,AMA,amazona,ipadu,1,d,28.42,95.5,180.5,305.5,197.5
+AMA1_c.tif,AMA,amazona,ipadu,1,c,28.42,107,206,293.5,193.5
+AMA1_b.tif,AMA,amazona,ipadu,1,b,28.42,94,203,305.5,194.5
+AMA1_a.tif,AMA,amazona,ipadu,1,a,28.42,94.5,201.5,306.5,191.5
+AMA4_e.tif,AMA,amazona,ipadu,4,e,28.42,85.5,203.5,313.5,200.5
+AMA4_d.tif,AMA,amazona,ipadu,4,d,28.42,80.167,203.833,319,204
+AMA4_c.tif,AMA,amazona,ipadu,4,c,28.42,90.5,203.5,308.5,197
+AMA4_b.tif,AMA,amazona,ipadu,4,b,28.42,72.5,206.5,326,198.5
+AMA4_a.tif,AMA,amazona,ipadu,4,a,28.42,84.5,210,315.5,198
+AMA3_e.tif,AMA,amazona,ipadu,3,e,28.42,101.5,196.5,297.5,197.5
+AMA3_d.tif,AMA,amazona,ipadu,3,d,28.42,85,207.5,314,203
+AMA3_c.tif,AMA,amazona,ipadu,3,c,28.42,84,203,315.5,200.5
+AMA3_b.tif,AMA,amazona,ipadu,3,b,28.42,95,201.5,305.5,197.5
+AMA3_a.tif,AMA,amazona,ipadu,3,a,28.42,84,198.5,315,208
+AMA2_e.tif,AMA,amazona,ipadu,2,e,28.42,88.833,194.5,310.167,203.5
+AMA2_d.tif,AMA,amazona,ipadu,2,d,28.42,81,199,328.5,195
+AMA2_c.tif,AMA,amazona,ipadu,2,c,28.42,90,194,309.5,205
+AMA2_b.tif,AMA,amazona,ipadu,2,b,28.42,103,196.5,297.5,206
+AMA2_a.tif,AMA,amazona,ipadu,2,a,28.42,81,202.5,318.5,196.5
+BOB4_e.tif,BOB,boliviana blanca,ipadu,4,e,28.42,91.5,192.5,309.5,203.5
+BOB4_d.tif,BOB,boliviana blanca,ipadu,4,d,28.42,98.5,203,301.5,200.5
+BOB4_c.tif,BOB,boliviana blanca,ipadu,4,c,28.42,98,196.5,300.5,201.5
+BOB4_b.tif,BOB,boliviana blanca,ipadu,4,b,28.42,88,206,312.5,198.5
+BOB4_a.tif,BOB,boliviana blanca,ipadu,4,a,28.42,83,193,316,201
+BOB3_e.tif,BOB,boliviana blanca,ipadu,3,e,28.42,72.5,199,326.5,201
+BOB3_d.tif,BOB,boliviana blanca,ipadu,3,d,28.42,80,202,319,196.5
+BOB3_c.tif,BOB,boliviana blanca,ipadu,3,c,28.42,90.5,194.5,309.167,202.167
+BOB3_b.tif,BOB,boliviana blanca,ipadu,3,b,28.42,71.5,195,327.5,202.5
+BOB3_a.tif,BOB,boliviana blanca,ipadu,3,a,28.42,62,197,337,200.5
+BOB2_e.tif,BOB,boliviana blanca,ipadu,2,e,28.42,117.833,197.833,280.833,204.833
+BOB2_d.tif,BOB,boliviana blanca,ipadu,2,d,28.42,115.5,202.5,282.833,199.167
+BOB2_c.tif,BOB,boliviana blanca,ipadu,2,c,28.42,97,199,303.5,197.5
+BOB2_b.tif,BOB,boliviana blanca,ipadu,2,b,28.42,100.5,197.5,299,205
+BOB2_a.tif,BOB,boliviana blanca,ipadu,2,a,28.42,94,195.5,305.5,197.5
+BOB1_e.tif,BOB,boliviana blanca,ipadu,1,e,28.42,86.833,192.833,313.167,201.5
+BOB1_d.tif,BOB,boliviana blanca,ipadu,1,d,28.42,81.833,191.5,316.833,196.833
+BOB1_c.tif,BOB,boliviana blanca,ipadu,1,c,28.42,73.167,208.833,327.167,202.167
+BOB1_b.tif,BOB,boliviana blanca,ipadu,1,b,28.42,96.5,199.5,301.833,202.5
+BOB1_a.tif,BOB,boliviana blanca,ipadu,1,a,28.42,75.5,205.5,324.167,202.167
+BRO4_e.tif,BRO,boliviana rojo,coca,4,e,28.42,95.5,194.5,302.5,197.5
+BRO4_d.tif,BRO,boliviana rojo,coca,4,d,28.42,85,199.5,315,201.5
+BRO4_c.tif,BRO,boliviana rojo,coca,4,c,28.42,78,202.5,321,204
+BRO4_b.tif,BRO,boliviana rojo,coca,4,b,28.42,104,192,296.5,201
+BRO4_a.tif,BRO,boliviana rojo,coca,4,a,28.42,75,187.5,325.5,202.5
+BRO3_e.tif,BRO,boliviana rojo,coca,3,e,28.42,82.833,197.167,316.833,211.5
+BRO3_d.tif,BRO,boliviana rojo,coca,3,d,28.42,96.833,193.167,302.5,197.833
+BRO3_c.tif,BRO,boliviana rojo,coca,3,c,28.42,81,198,319,195
+BRO3_b.tif,BRO,boliviana rojo,coca,3,b,28.42,85.5,193.167,313.167,200.5
+BRO3_a.tif,BRO,boliviana rojo,coca,3,a,28.42,85.5,200.5,313.5,200
+BRO2_e.tif,BRO,boliviana rojo,coca,2,e,28.42,112.167,206.833,286.833,201.167
+BRO2_d.tif,BRO,boliviana rojo,coca,2,d,28.42,102.833,196.5,297.167,200.5
+BRO2_c.tif,BRO,boliviana rojo,coca,2,c,28.42,87,196.5,312.5,212
+BRO2_b.tif,BRO,boliviana rojo,coca,2,b,28.42,96,203.5,303,198
+BRO2_a.tif,BRO,boliviana rojo,coca,2,a,28.42,88,195.5,311.5,195
+BRO1_e.tif,BRO,boliviana rojo,coca,1,e,28.42,100,199,299,204.5
+BRO1_d.tif,BRO,boliviana rojo,coca,1,d,28.42,80.5,197,318,200.5
+BRO1_c.tif,BRO,boliviana rojo,coca,1,c,28.42,95,197.5,303.5,202
+BRO1_b.tif,BRO,boliviana rojo,coca,1,b,28.42,97,191,302,200.5
+BRO1_a.tif,BRO,boliviana rojo,coca,1,a,28.42,99.5,201.5,301,197.5
+CHA4_e.tif,CHA,chiparra,coca,4,e,28.42,113.5,198.5,285,202
+CHA4_d.tif,CHA,chiparra,coca,4,d,28.42,99,208,300,203
+CHA4_c.tif,CHA,chiparra,coca,4,c,28.42,101,188.5,299.5,195
+CHA4_b.tif,CHA,chiparra,coca,4,b,28.42,91.5,203,307,200.5
+CHA4_a.tif,CHA,chiparra,coca,4,a,28.42,78.5,198,320,198.5
+CHA3_e.tif,CHA,chiparra,coca,3,e,28.42,91.5,208,308,190.5
+CHA3_d.tif,CHA,chiparra,coca,3,d,28.42,89.833,204.833,309.833,199.167
+CHA3_c.tif,CHA,chiparra,coca,3,c,28.42,110.5,195.833,288.5,202.167
+CHA3_b.tif,CHA,chiparra,coca,3,b,28.42,102.833,189.833,297.167,207.167
+CHA3_a.tif,CHA,chiparra,coca,3,a,28.42,86.5,200.833,313.167,204.833
+CHA2_e.tif,CHA,chiparra,coca,2,e,28.42,109.5,200.75,289,200
+CHA2_d.tif,CHA,chiparra,coca,2,d,28.42,105.167,202.833,294.833,204.167
+CHA2_c.tif,CHA,chiparra,coca,2,c,28.42,104.5,195.5,294.167,196.833
+CHA2_b.tif,CHA,chiparra,coca,2,b,28.42,107.5,198,291,203.5
+CHA2_a.tif,CHA,chiparra,coca,2,a,28.42,76.833,205.5,322.833,198.833
+CHA1_e.tif,CHA,chiparra,coca,1,e,28.42,94.833,203.5,305.167,200.833
+CHA1_d.tif,CHA,chiparra,coca,1,d,28.42,103.5,204.167,295.833,193.833
+CHA1_c.tif,CHA,chiparra,coca,1,c,28.42,107.5,202.833,290.833,202.833
+CHA1_b.tif,CHA,chiparra,coca,1,b,28.42,93.833,201.833,306.5,193.167
+CHA1_a.tif,CHA,chiparra,coca,1,a,28.42,107.25,200,292.25,202.5
+CHI4_e.tif,CHI,chirosa,coca,4,e,28.42,96.5,199,302.5,192
+CHI4_d.tif,CHI,chirosa,coca,4,d,28.42,106.833,200.167,290.833,201.833
+CHI4_c.tif,CHI,chirosa,coca,4,c,28.42,75.5,201.167,322.833,198.167
+CHI4_b.tif,CHI,chirosa,coca,4,b,28.42,76.5,195.833,322.167,197.5
+CHI4_a.tif,CHI,chirosa,coca,4,a,28.42,75.833,202.833,323.167,193.167
+CHI3_e.tif,CHI,chirosa,coca,3,e,28.42,91.833,191.167,307.167,197.5
+CHI3_d.tif,CHI,chirosa,coca,3,d,28.42,111.5,207.25,288,189
+CHI3_c.tif,CHI,chirosa,coca,3,c,28.42,101.75,198,297,197
+CHI3_b.tif,CHI,chirosa,coca,3,b,28.42,60,198.5,337.5,198.5
+CHI3_a.tif,CHI,chirosa,coca,3,a,28.42,71.5,197.167,327.5,203.167
+CHI2_e.tif,CHI,chirosa,coca,2,e,28.42,89.833,203.167,308.833,204.167
+CHI2_d.tif,CHI,chirosa,coca,2,d,28.42,93.5,204.833,305.167,192.167
+CHI2_c.tif,CHI,chirosa,coca,2,c,28.42,76.833,206.5,322.167,201.833
+CHI2_b.tif,CHI,chirosa,coca,2,b,28.42,78.833,209.167,320.167,198.167
+CHI2_a.tif,CHI,chirosa,coca,2,a,28.42,75.5,212.5,323.833,192.833
+CHI1_e.tif,CHI,chirosa,coca,1,e,28.42,81.5,202.833,316.5,199.5
+CHI1_d.tif,CHI,chirosa,coca,1,d,28.42,86.5,197.833,313.167,196.5
+CHI1_c.tif,CHI,chirosa,coca,1,c,28.42,71.833,209.167,326.833,195.833
+CHI1_b.tif,CHI,chirosa,coca,1,b,28.42,81.833,201.5,317.833,205.5
+CHI1_a.tif,CHI,chirosa,coca,1,a,28.42,90.167,192.167,309.5,192.5
+CRE4_e.tif,CRE,crespa,truxillense,4,e,28.42,114.167,202.167,284.167,198.167
+CRE4_d.tif,CRE,crespa,truxillense,4,d,28.42,114.75,197.25,285.25,202
+CRE4_c.tif,CRE,crespa,truxillense,4,c,28.42,125.5,195,274.25,205.5
+CRE4_b.tif,CRE,crespa,truxillense,4,b,28.42,109.5,200,290.25,202.25
+CRE4_a.tif,CRE,crespa,truxillense,4,a,28.42,116.75,200.25,283.5,199.75
+CRE3_e.tif,CRE,crespa,truxillense,3,e,28.42,120.5,199.75,279.5,201
+CRE3_d.tif,CRE,crespa,truxillense,3,d,28.42,105.75,195.25,293.5,203.5
+CRE3_c.tif,CRE,crespa,truxillense,3,c,28.42,111.5,201,287.25,199.25
+CRE3_b.tif,CRE,crespa,truxillense,3,b,28.42,102.75,208.5,296,198
+CRE3_a.tif,CRE,crespa,truxillense,3,a,28.42,119.5,207.5,279.5,197.75
+CRE2_e.tif,CRE,crespa,truxillense,2,e,28.42,125.5,197.5,273.5,205
+CRE2_d.tif,CRE,crespa,truxillense,2,d,28.42,136.5,197.333,263.5,201.333
+CRE2_c.tif,CRE,crespa,truxillense,2,c,28.42,118.75,199.25,280.5,210.5
+CRE2_b.tif,CRE,crespa,truxillense,2,b,28.42,134.5,198,264.333,199.833
+CRE2_a.tif,CRE,crespa,truxillense,2,a,28.42,124.75,191.75,274.25,203.75
+CRE1_e.tif,CRE,crespa,truxillense,1,e,28.42,135.667,200.833,263.167,200
+CRE1_d.tif,CRE,crespa,truxillense,1,d,28.42,119.5,185.25,280,193.5
+CRE1_c.tif,CRE,crespa,truxillense,1,c,28.42,105.75,204.75,293.25,198.5
+CRE1_b.tif,CRE,crespa,truxillense,1,b,28.42,122.5,158.5,278.25,214
+CRE1_a.tif,CRE,crespa,truxillense,1,a,28.42,121.5,200.25,277.5,188.25
+DUL4_e.tif,DUL,dulce,coca,4,e,28.42,115.5,206.5,284.167,199.167
+DUL4_d.tif,DUL,dulce,coca,4,d,28.42,101.5,206.5,296.5,200
+DUL4_c.tif,DUL,dulce,coca,4,c,28.42,121,201,278.5,205.5
+DUL4_b.tif,DUL,dulce,coca,4,b,28.42,114,205.5,286.5,204.5
+DUL4_a.tif,DUL,dulce,coca,4,a,28.42,84,194.5,315,219.5
+DUL3_e.tif,DUL,dulce,coca,3,e,28.42,118.833,202.5,280.833,202.833
+DUL3_d.tif,DUL,dulce,coca,3,d,28.42,107.5,207.5,293,201
+DUL3_c.tif,DUL,dulce,coca,3,c,28.42,105.5,201.5,295,202.5
+DUL3_b.tif,DUL,dulce,coca,3,b,28.42,108.833,203.833,290.167,187.833
+DUL3_a.tif,DUL,dulce,coca,3,a,28.42,100,208,299,198
+DUL2_e.tif,DUL,dulce,coca,2,e,28.42,92,198.5,306.5,208.5
+DUL2_d.tif,DUL,dulce,coca,2,d,28.42,119.833,202.833,280.167,195.167
+DUL2_c.tif,DUL,dulce,coca,2,c,28.42,104.833,199.833,294.833,197.167
+DUL2_b.tif,DUL,dulce,coca,2,b,28.42,107.833,205.167,291.833,204.167
+DUL2_a.tif,DUL,dulce,coca,2,a,28.42,95,206.5,304.5,193.5
+DUL1_e.tif,DUL,dulce,coca,1,e,28.42,98,204,300.5,187
+DUL1_d.tif,DUL,dulce,coca,1,d,28.42,103.167,195.833,297.167,196.833
+DUL1_c.tif,DUL,dulce,coca,1,c,28.42,86,206,313.5,197.5
+DUL1_b.tif,DUL,dulce,coca,1,b,28.42,98.5,198,300.833,190.833
+DUL1_a.tif,DUL,dulce,coca,1,a,28.42,101.833,193.5,297.833,195.833
+GIG4_e.tif,GIG,gigante,ipadu,4,e,28.42,80,194.5,318.5,204.5
+GIG4_d.tif,GIG,gigante,ipadu,4,d,28.42,92.5,196,305.5,198.5
+GIG4_c.tif,GIG,gigante,ipadu,4,c,28.42,88.5,197.5,311.5,202
+GIG4_b.tif,GIG,gigante,ipadu,4,b,28.42,77,209.5,322.5,205.5
+GIG4_a.tif,GIG,gigante,ipadu,4,a,28.42,75,204,323.5,198
+GIG3_e.tif,GIG,gigante,ipadu,3,e,28.42,86,199,313,201
+GIG3_d.tif,GIG,gigante,ipadu,3,d,28.42,76,203.5,323.5,200.5
+GIG3_c.tif,GIG,gigante,ipadu,3,c,28.42,70,198.5,330,195
+GIG3_b.tif,GIG,gigante,ipadu,3,b,28.42,84,201.5,315,195.5
+GIG3_a.tif,GIG,gigante,ipadu,3,a,28.42,66,207,333.5,193.5
+GIG2_e.tif,GIG,gigante,ipadu,2,e,28.42,84,210,316,195.5
+GIG2_d.tif,GIG,gigante,ipadu,2,d,28.42,66,196,333.5,198
+GIG2_c.tif,GIG,gigante,ipadu,2,c,28.42,78,201.5,321.5,204.5
+GIG2_b.tif,GIG,gigante,ipadu,2,b,28.42,74,205.5,325,198.5
+GIG2_a.tif,GIG,gigante,ipadu,2,a,28.42,76,196.5,324,196
+GIG1_e.tif,GIG,gigante,ipadu,1,e,28.42,79.5,196,320,204
+GIG1_d.tif,GIG,gigante,ipadu,1,d,28.42,72,209,327.5,201
+GIG1_c.tif,GIG,gigante,ipadu,1,c,28.42,64.5,195,335.5,202.5
+GIG1_b.tif,GIG,gigante,ipadu,1,b,28.42,76.5,203,324,201
+GIG1_a.tif,GIG,gigante,ipadu,1,a,28.42,67.5,209,331.5,190
+GUR4_e.tif,GUR,guayaba roja,coca,4,e,28.42,98,194.5,301,209
+GUR4_d.tif,GUR,guayaba roja,coca,4,d,28.42,96.5,192.5,303,197.5
+GUR4_c.tif,GUR,guayaba roja,coca,4,c,28.42,106.833,198.5,291.833,204.833
+GUR4_b.tif,GUR,guayaba roja,coca,4,b,28.42,102,198.5,297,202.5
+GUR4_a.tif,GUR,guayaba roja,coca,4,a,28.42,92.5,195,305,202
+GUR3_e.tif,GUR,guayaba roja,coca,3,e,28.42,114.5,199.5,284.167,201.167
+GUR3_d.tif,GUR,guayaba roja,coca,3,d,28.42,110.167,195.167,289.833,203.5
+GUR3_c.tif,GUR,guayaba roja,coca,3,c,28.42,118.833,197.5,280.833,204.167
+GUR3_b.tif,GUR,guayaba roja,coca,3,b,28.42,104.833,198.833,294.167,202.5
+GUR3_a.tif,GUR,guayaba roja,coca,3,a,28.42,100.5,200,297.5,203
+GUR2_e.tif,GUR,guayaba roja,coca,2,e,28.42,99.5,203,299,194
+GUR2_d.tif,GUR,guayaba roja,coca,2,d,28.42,115.833,206.833,283.167,193.167
+GUR2_c.tif,GUR,guayaba roja,coca,2,c,28.42,100,200,298.5,202
+GUR2_b.tif,GUR,guayaba roja,coca,2,b,28.42,98,196,302,207.5
+GUR2_a.tif,GUR,guayaba roja,coca,2,a,28.42,96.5,197,301.5,212
+GUR1_e.tif,GUR,guayaba roja,coca,1,e,28.42,85,196.5,313.5,203.5
+GUR1_d.tif,GUR,guayaba roja,coca,1,d,28.42,90,184.5,309,203
+GUR1_c.tif,GUR,guayaba roja,coca,1,c,28.42,100.5,187,298.5,202
+GUR1_b.tif,GUR,guayaba roja,coca,1,b,28.42,107.833,195.833,292.167,201.5
+GUR1_a.tif,GUR,guayaba roja,coca,1,a,28.42,112.5,198.5,286.167,202.833
+PAT4_e.tif,PAT,patirroja,coca,4,e,28.42,86,205.5,314,185.5
+PAT4_d.tif,PAT,patirroja,coca,4,d,28.42,95,205,303.5,198.5
+PAT4_c.tif,PAT,patirroja,coca,4,c,28.42,66.5,192.5,332.5,205
+PAT4_b.tif,PAT,patirroja,coca,4,b,28.42,87,194,312,194.5
+PAT4_a.tif,PAT,patirroja,coca,4,a,28.42,93.5,204.5,304.5,197
+PAT3_e.tif,PAT,patirroja,coca,3,e,28.42,94.5,189.5,303.5,203
+PAT3_d.tif,PAT,patirroja,coca,3,d,28.42,91.5,192,306.5,203
+PAT3_c.tif,PAT,patirroja,coca,3,c,28.42,95,202.5,304.5,196.5
+PAT3_b.tif,PAT,patirroja,coca,3,b,28.42,80.5,194.5,318.5,206
+PAT3_a.tif,PAT,patirroja,coca,3,a,28.42,105.833,203.833,292.833,196.5
+PAT2_e.tif,PAT,patirroja,coca,2,e,28.42,86,202,313,200
+PAT2_d.tif,PAT,patirroja,coca,2,d,28.42,81,197,318.5,206
+PAT2_c.tif,PAT,patirroja,coca,2,c,28.42,90,199.5,309.5,205
+PAT2_b.tif,PAT,patirroja,coca,2,b,28.42,107.5,199.833,291.833,197.833
+PAT2_a.tif,PAT,patirroja,coca,2,a,28.42,67.5,204.5,331.5,198
+PAT1_e.tif,PAT,patirroja,coca,1,e,28.42,98.5,202.5,301,193
+PAT1_d.tif,PAT,patirroja,coca,1,d,28.42,97.5,196.5,301.5,193.5
+PAT1_c.tif,PAT,patirroja,coca,1,c,28.42,104.833,193.5,293.833,201.5
+PAT1_b.tif,PAT,patirroja,coca,1,b,28.42,68,197,331.5,193
+PAT1_a.tif,PAT,patirroja,coca,1,a,28.42,100.5,213,298,190.5
+PER4_e.tif,PER,peruana roja,coca,4,e,28.42,83,195,315.5,194
+PER4_d.tif,PER,peruana roja,coca,4,d,28.42,86,199,312.5,197.5
+PER4_c.tif,PER,peruana roja,coca,4,c,28.42,72.5,201.5,326.5,205.5
+PER4_b.tif,PER,peruana roja,coca,4,b,28.42,81,196,318,197.5
+PER4_a.tif,PER,peruana roja,coca,4,a,28.42,86,194,313,201.5
+PER3_e.tif,PER,peruana roja,coca,3,e,28.42,104.5,197.167,293.833,197.167
+PER3_d.tif,PER,peruana roja,coca,3,d,28.42,74.5,199,325.5,200
+PER3_c.tif,PER,peruana roja,coca,3,c,28.42,76.5,198.5,321.5,199
+PER3_b.tif,PER,peruana roja,coca,3,b,28.42,88,200,311,200
+PER3_a.tif,PER,peruana roja,coca,3,a,28.42,62,205,337.5,195
+PER2_e.tif,PER,peruana roja,coca,2,e,28.42,94,195,305,202.5
+PER2_d.tif,PER,peruana roja,coca,2,d,28.42,91,201.5,308,201
+PER2_c.tif,PER,peruana roja,coca,2,c,28.42,88.5,196.5,311,191.5
+PER2_b.tif,PER,peruana roja,coca,2,b,28.42,80,197,319.5,203
+PER2_a.tif,PER,peruana roja,coca,2,a,28.42,60,210,340,204.5
+PER1_e.tif,PER,peruana roja,coca,1,e,28.42,79.5,204,318.5,206
+PER1_d.tif,PER,peruana roja,coca,1,d,28.42,81,200.5,318.5,203
+PER1_c.tif,PER,peruana roja,coca,1,c,28.42,101.833,200.167,296.833,202.167
+PER1_b.tif,PER,peruana roja,coca,1,b,28.42,70,198.5,328.5,215
+PER1_a.tif,PER,peruana roja,coca,1,a,28.42,95.5,193.5,304,197.5
+TIP4_e.tif,TIP,tingo pajarita,novogranatense,4,e,28.42,142.5,209.5,257.25,196.75
+TIP4_d.tif,TIP,tingo pajarita,novogranatense,4,d,28.42,139.5,203.25,259,199.5
+TIP4_c.tif,TIP,tingo pajarita,novogranatense,4,c,28.42,128.75,205.25,270.25,196.75
+TIP4_b.tif,TIP,tingo pajarita,novogranatense,4,b,28.42,134.75,201.25,264.25,202.25
+TIP4_a.tif,TIP,tingo pajarita,novogranatense,4,a,28.42,130.75,204,269,193.75
+TIP3_e.tif,TIP,tingo pajarita,novogranatense,3,e,28.42,146.5,200,252.25,198
+TIP3_d.tif,TIP,tingo pajarita,novogranatense,3,d,28.42,143.75,204.75,256.25,198
+TIP3_c.tif,TIP,tingo pajarita,novogranatense,3,c,28.42,127.833,200.5,271.167,200.167
+TIP3_b.tif,TIP,tingo pajarita,novogranatense,3,b,28.42,129.167,202.833,270.167,198.167
+TIP3_a.tif,TIP,tingo pajarita,novogranatense,3,a,28.42,121.833,207.167,277.833,192.5
+TIP2_e.tif,TIP,tingo pajarita,novogranatense,2,e,28.42,141.75,201.75,258.25,200.5
+TIP2_d.tif,TIP,tingo pajarita,novogranatense,2,d,28.42,140.75,202,259.25,201.75
+TIP2_c.tif,TIP,tingo pajarita,novogranatense,2,c,28.42,128.5,205.5,271.167,195.167
+TIP2_b.tif,TIP,tingo pajarita,novogranatense,2,b,28.42,145.75,203,254.25,196
+TIP2_a.tif,TIP,tingo pajarita,novogranatense,2,a,28.42,138.75,204.25,260.25,199.5
+TIP1_e.tif,TIP,tingo pajarita,novogranatense,1,e,28.42,143.75,199.25,256.25,200.5
+TIP1_d.tif,TIP,tingo pajarita,novogranatense,1,d,28.42,138.75,206,260.25,198
+TIP1_c.tif,TIP,tingo pajarita,novogranatense,1,c,28.42,135.5,203.5,263,195.75
+TIP1_b.tif,TIP,tingo pajarita,novogranatense,1,b,28.42,138.5,205.5,260.25,198.75
+TIP1_a.tif,TIP,tingo pajarita,novogranatense,1,a,28.42,131.75,196.5,268,196.25
+TMA4_e.tif,TMA,tingo maria,coca,4,e,28.42,89,200,310,199.5
+TMA4_d.tif,TMA,tingo maria,coca,4,d,28.42,67,198.5,333,196.5
+TMA4_c.tif,TMA,tingo maria,coca,4,c,28.42,66,204.5,334,199.5
+TMA4_b.tif,TMA,tingo maria,coca,4,b,28.42,62,210,337,202.5
+TMA4_a.tif,TMA,tingo maria,coca,4,a,28.42,63.5,200,335.5,194
+TMA3_e.tif,TMA,tingo maria,coca,3,e,28.42,71,207.5,329.5,192.5
+TMA3_d.tif,TMA,tingo maria,coca,3,d,28.42,54,194,345.5,192.5
+TMA3_c.tif,TMA,tingo maria,coca,3,c,28.42,75,194.5,324.5,194.5
+TMA3_b.tif,TMA,tingo maria,coca,3,b,28.42,77,207,322,192.5
+TMA3_a.tif,TMA,tingo maria,coca,3,a,28.42,59,202,339.5,199
+TMA2_e.tif,TMA,tingo maria,coca,2,e,28.42,89,201,310.5,207
+TMA2_d.tif,TMA,tingo maria,coca,2,d,28.42,62,205,338,191.5
+TMA2_c.tif,TMA,tingo maria,coca,2,c,28.42,66.5,207.5,334.5,188.5
+TMA2_b.tif,TMA,tingo maria,coca,2,b,28.42,48,209,350.833,199.5
+TMA2_a.tif,TMA,tingo maria,coca,2,a,28.42,66,205,334,188
+TMA1_e.tif,TMA,tingo maria,coca,1,e,28.42,69,197.5,330.5,210
+TMA1_d.tif,TMA,tingo maria,coca,1,d,28.42,62,200,337.5,193
+TMA1_c.tif,TMA,tingo maria,coca,1,c,28.42,89,202.5,310,199
+TMA1_b.tif,TMA,tingo maria,coca,1,b,28.42,87,200,312,196.5
+TMA1_a.tif,TMA,tingo maria,coca,1,a,28.42,57,198.5,343,200
+TPC4_e.tif,TPC,tingo pajarita caucana,novogranatense,4,e,28.42,141.5,193,257.25,202
+TPC4_d.tif,TPC,tingo pajarita caucana,novogranatense,4,d,28.42,127.75,201.75,272,202.25
+TPC4_c.tif,TPC,tingo pajarita caucana,novogranatense,4,c,28.42,116.5,197.167,283.167,205.5
+TPC4_b.tif,TPC,tingo pajarita caucana,novogranatense,4,b,28.42,119.833,196.833,280.167,200.5
+TPC4_a.tif,TPC,tingo pajarita caucana,novogranatense,4,a,28.42,123.833,193.5,275.833,203.167
+TPC3_e.tif,TPC,tingo pajarita caucana,novogranatense,3,e,28.42,131.5,191.5,268.167,207.167
+TPC3_d.tif,TPC,tingo pajarita caucana,novogranatense,3,d,28.42,129.167,195.167,269.167,204.833
+TPC3_c.tif,TPC,tingo pajarita caucana,novogranatense,3,c,28.42,138.75,208,260,196.5
+TPC3_b.tif,TPC,tingo pajarita caucana,novogranatense,3,b,28.42,129.167,196.5,270.167,198.5
+TPC3_a.tif,TPC,tingo pajarita caucana,novogranatense,3,a,28.42,136.5,199.25,262,194
+TPC2_e.tif,TPC,tingo pajarita caucana,novogranatense,2,e,28.42,136.75,195.5,263.25,201
+TPC2_d.tif,TPC,tingo pajarita caucana,novogranatense,2,d,28.42,137.75,201,262.25,198.5
+TPC2_c.tif,TPC,tingo pajarita caucana,novogranatense,2,c,28.42,130.75,183.75,268.5,201
+TPC2_b.tif,TPC,tingo pajarita caucana,novogranatense,2,b,28.42,129.5,202.5,269.25,197.75
+TPC2_a.tif,TPC,tingo pajarita caucana,novogranatense,2,a,28.42,125.5,199.167,273.167,200.5
+TPC1_e.tif,TPC,tingo pajarita caucana,novogranatense,1,e,28.42,126.833,197.833,272.833,205.833
+TPC1_d.tif,TPC,tingo pajarita caucana,novogranatense,1,d,28.42,128.833,205.833,270.167,199.833
+TPC1_c.tif,TPC,tingo pajarita caucana,novogranatense,1,c,28.42,124.833,205.167,274.167,195.5
+TPC1_b.tif,TPC,tingo pajarita caucana,novogranatense,1,b,28.42,132.833,197.167,266.167,201.833
+TPC1_a.tif,TPC,tingo pajarita caucana,novogranatense,1,a,28.42,128.833,199.167,270.167,199.167
+TPE4_e.tif,TPE,tingo peruana,coca,4,e,28.42,79.5,203.5,318.5,205.5
+TPE4_d.tif,TPE,tingo peruana,coca,4,d,28.42,81,201,318.5,203
+TPE4_c.tif,TPE,tingo peruana,coca,4,c,28.42,101.833,200.167,296.833,201.833
+TPE4_b.tif,TPE,tingo peruana,coca,4,b,28.42,69.5,199,328.5,216
+TPE4_a.tif,TPE,tingo peruana,coca,4,a,28.42,96,194,303.5,198
+TPE3_e.tif,TPE,tingo peruana,coca,3,e,28.42,92.5,198,307.5,206
+TPE3_d.tif,TPE,tingo peruana,coca,3,d,28.42,103,198.5,295.5,206
+TPE3_c.tif,TPE,tingo peruana,coca,3,c,28.42,86.5,197,312.5,203.5
+TPE3_b.tif,TPE,tingo peruana,coca,3,b,28.42,80,207,320.5,196
+TPE3_a.tif,TPE,tingo peruana,coca,3,a,28.42,50,204,349.5,202.833
+TPE2_e.tif,TPE,tingo peruana,coca,2,e,28.42,85,189.5,314.5,201
+TPE2_d.tif,TPE,tingo peruana,coca,2,d,28.42,87.5,194,310.5,205
+TPE2_c.tif,TPE,tingo peruana,coca,2,c,28.42,82.5,200,317.5,203.5
+TPE2_b.tif,TPE,tingo peruana,coca,2,b,28.42,84,199,313.5,202.5
+TPE2_a.tif,TPE,tingo peruana,coca,2,a,28.42,84,199.5,316,205
+TPE1_e.tif,TPE,tingo peruana,coca,1,e,28.42,87,204,311.5,191.5
+TPE1_d.tif,TPE,tingo peruana,coca,1,d,28.42,71,200.5,328,200.5
+TPE1_c.tif,TPE,tingo peruana,coca,1,c,28.42,108.167,197.167,290.833,196.833
+TPE1_b.tif,TPE,tingo peruana,coca,1,b,28.42,69.5,206,331.5,198.5
+TPE1_a.tif,TPE,tingo peruana,coca,1,a,28.42,113.833,200.167,285.167,193.167
+TRU4_e.tif,TRU,tujillense caucana,ipadu,4,e,28.42,92,196,307.5,204
+TRU4_d.tif,TRU,tujillense caucana,ipadu,4,d,28.42,95,198,304.5,203
+TRU4_c.tif,TRU,tujillense caucana,ipadu,4,c,28.42,80.5,198,318,203.5
+TRU4_b.tif,TRU,tujillense caucana,ipadu,4,b,28.42,87.5,208,312.5,199.5
+TRU4_a.tif,TRU,tujillense caucana,ipadu,4,a,28.42,58,206.5,340.5,198
+TRU3_e.tif,TRU,tujillense caucana,ipadu,3,e,28.42,99,198.5,300.5,202.5
+TRU3_d.tif,TRU,tujillense caucana,ipadu,3,d,28.42,91,198.5,307.5,198
+TRU3_c.tif,TRU,tujillense caucana,ipadu,3,c,28.42,86,191.5,313.5,196
+TRU3_b.tif,TRU,tujillense caucana,ipadu,3,b,28.42,88.5,206,309.5,199
+TRU3_a.tif,TRU,tujillense caucana,ipadu,3,a,28.42,76,196.5,322,193
+TRU2_e.tif,TRU,tujillense caucana,ipadu,2,e,28.42,100.5,197.5,298.5,200
+TRU2_d.tif,TRU,tujillense caucana,ipadu,2,d,28.42,92,209,307,204.5
+TRU2_c.tif,TRU,tujillense caucana,ipadu,2,c,28.42,87,198.5,312,195
+TRU2_b.tif,TRU,tujillense caucana,ipadu,2,b,28.42,75,209,323.5,200.5
+TRU2_a.tif,TRU,tujillense caucana,ipadu,2,a,28.42,76.5,190.5,321.5,194
+TRU1_e.tif,TRU,tujillense caucana,ipadu,1,e,28.42,102,202,297.5,197
+TRU1_d.tif,TRU,tujillense caucana,ipadu,1,d,28.42,90.5,183,308.5,198.5
+TRU1_c.tif,TRU,tujillense caucana,ipadu,1,c,28.42,76.5,203,322.5,200
+TRU1_b.tif,TRU,tujillense caucana,ipadu,1,b,28.42,89.5,196,309.5,197.5
+TRU1_a.tif,TRU,tujillense caucana,ipadu,1,a,28.42,77,194,321.5,210
